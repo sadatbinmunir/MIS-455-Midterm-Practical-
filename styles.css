@@ -18,9 +18,9 @@ header {
 }
 .logo {
     position: absolute;
-    top: 10px;
-    left: 10px;
-    width: 50px;
+    top: 35px;
+    left: 15px;
+    width: 150px;
     height: auto;
     cursor: pointer;
 }
@@ -43,7 +43,7 @@ nav a {
     transition: background 0.3s;
 }
 nav a:hover {
-    background: #444;
+    background: #0f4302;
 }
 .container {
     padding: 20px;
